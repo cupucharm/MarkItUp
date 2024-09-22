@@ -44,3 +44,6 @@ out/
 
 ### log 파일 ###
 *.log
+
+### application properties ###
+application.properties
